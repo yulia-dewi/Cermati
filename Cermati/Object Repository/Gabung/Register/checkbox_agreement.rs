@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_agreement</name>
+   <tag></tag>
+   <elementGuidId>2174ff25-6cbe-4628-b836-69771efd2a9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='safe-area']/div[2]/div[2]/div/div[8]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.TermsAndConditions_checkbox__text__ZPxfq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3362b6e5-7dfe-4dda-a3a4-3e565180dc7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TermsAndConditions_checkbox__text__ZPxfq</value>
+      <webElementGuid>fbf4f646-dd24-4153-bc40-2cbe82260339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.</value>
+      <webElementGuid>b13e85e1-2dd3-4570-9a46-a4edc7046d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[2]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi&quot;]/div[@class=&quot;RegistrationForm_form-container__input-group__OgDct&quot;]/label[@class=&quot;TermsAndConditions_checkbox__HM7QK&quot;]/span[@class=&quot;TermsAndConditions_checkbox__text__ZPxfq&quot;]</value>
+      <webElementGuid>ff06fcbb-76f0-4702-b301-3a8b10d30e1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div[2]/div[2]/div/div[8]/label/span</value>
+      <webElementGuid>4edcfff8-4e96-4828-980c-7b68a3ab35b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kabupaten/Kota tidak tersedia di dalam pilihan yang ada'])[1]/following::span[1]</value>
+      <webElementGuid>9ee0770e-a71e-4395-af57-33f95fe87186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kabupaten/Kota'])[1]/following::span[1]</value>
+      <webElementGuid>736ce24b-3eb9-43c4-b45d-7c4d2275ffbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya menyetujui']/parent::*</value>
+      <webElementGuid>9bbd257f-ec76-491e-aac1-524e7d84bbaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>0536a83f-1770-4d5e-b170-37211967c367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Saya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.' or . = 'Saya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.')]</value>
+      <webElementGuid>851b68bd-9564-4f9a-bfa8-924f6e4519fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
